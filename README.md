@@ -1,1 +1,1 @@
-Simple e commerce app for my self studies
+Simple e commerce website.
